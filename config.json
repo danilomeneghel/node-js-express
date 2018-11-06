@@ -1,0 +1,17 @@
+{
+    "pg": {
+		"host": "stampy.db.elephantsql.com",
+        "database": "nnceadxh",
+        "user": "nnceadxh",
+        "password": "skjA32uJ2LZkdjcG9kqOUz5egEmyvkaN",
+        "schema": "public"
+    },
+    "server": {
+        "port": 5000
+    },
+    "app": {
+        "layouts": true,
+        "themes": true,
+        "languages": true
+    }
+}
