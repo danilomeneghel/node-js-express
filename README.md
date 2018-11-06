@@ -1,22 +1,38 @@
+# NodeJS Express
 
-![img-screenshot]
+Project developed with NodeJS Express.
 
----
+## Features
 
-[![img-npm-version]][url-npm]
-[![img-travis]][url-travis]
+- CRUD
+- Routes
+- Login
+- GridView
+- Filter
 
+## Requirements
 
-# [Introductory Screencast][url-screencast]
+- Node >= 8.11.1
+- NPM >= 6.0.0
+- PostgreSQL >= 10
 
-# [Documentation][url-docs]
+## Tecnologies
 
-# [Examples][url-examples]
+- NodeJS
+- Express
+- JS
+- CSS
+- PostgresSQL
 
-# [Tests][url-tests]
+## Demonstration
 
+https://node-js-express.herokuapp.com/ <br>
 
-# License
+- Login:
+	- Username: admin
+	- Password: nodeJS123
+
+## License
 
 The MIT License (MIT)
 
