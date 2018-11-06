@@ -2,7 +2,7 @@
     "name"              : "English",
 
     "logo"              : "Express Admin",
-    
+
     "layout"            : "Layout",
     "centered"          : "Centered",
     "streched"          : "Streched",
@@ -18,11 +18,11 @@
     "invalid-password"  : "Invalid password!",
 
     "home"              : "Home",
-    "site-admin"        : "Site administration",
-    "tables"            : "Tables",
+    "site-admin"        : "Dashboard",
+    "tables"            : "Modules",
     "views"             : "Views",
     "others"            : "Others",
-    
+
     "select"            : "Select",
     "to-change"         : "to change",
     "filter"            : "Filter",
